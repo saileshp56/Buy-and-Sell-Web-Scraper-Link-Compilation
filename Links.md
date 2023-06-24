@@ -1,5 +1,5 @@
 Live Website:
-[https://prod.duzr07w6j4ex6.amplifyapp.com]
+https://prod.duzr07w6j4ex6.amplifyapp.com
 
 Buy and Sell Puppeteer (Node):
 https://github.com/saileshp56/BuyAndSell-Nodejs
